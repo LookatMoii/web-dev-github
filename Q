@@ -1,0 +1,17 @@
+[33mcommit 9e7840420c2b2f5984fb6aa3118a095c510e32dd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mfeature[m[33m)[m
+Author: Jieun Kim <tlaqkxoddl2@gmail.com>
+Date:   Tue Feb 21 16:27:44 2023 +1100
+
+    added new feature
+
+[33mcommit 892c53cd1a02e8a601cf97147f2ce94c0ebd6bc8[m
+Author: Jieun Kim <tlaqkxoddl2@gmail.com>
+Date:   Tue Feb 21 16:16:27 2023 +1100
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit d869221273d2fe956fe8cb5b6e4c27b2491f6076[m
+Author: Jieun Kim <tlaqkxoddl2@gmail.com>
+Date:   Tue Feb 21 16:09:30 2023 +1100
+
+    added text.txt file
